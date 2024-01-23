@@ -12,4 +12,4 @@ Instructions: search for, download, and reproduce the maps of the following pape
 
 4. Balboni, C.A., 2019. In harm's way? infrastructure investments and the persistence of coastal cities. Link here (fig. 3: Vietnam's road infrastructure by road type - if available)
 
-5.Morten, M. & Oliveira, J., 2018. The Effects of Roads on Trade and Migration: Evidence from a Planned Capital City (fig. 1: Brazil's capital and main road infrastructure)
+5. Morten, M. & Oliveira, J., 2018. The Effects of Roads on Trade and Migration: Evidence from a Planned Capital City (fig. 1: Brazil's capital and main road infrastructure)
